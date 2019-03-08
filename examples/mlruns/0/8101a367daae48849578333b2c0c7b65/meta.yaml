@@ -1,0 +1,14 @@
+artifact_uri: /Users/luca/work/mlflow_meetup/mlflow/examples/mlruns/0/8101a367daae48849578333b2c0c7b65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: deleted
+name: ''
+run_uuid: 8101a367daae48849578333b2c0c7b65
+source_name: /Users/luca/anaconda/envs/mlflow/lib/python3.6/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1552055737827
+status: 1
+tags: []
+user_id: luca
