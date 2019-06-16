@@ -1,0 +1,14 @@
+artifact_uri: /Users/luca/mlops/mlruns/1/4ae427330a51409e822f8067c16da526/artifacts
+end_time: 1552417178414
+entry_point_name: ''
+experiment_id: 1
+lifecycle_stage: active
+name: ''
+run_uuid: 4ae427330a51409e822f8067c16da526
+source_name: /Users/luca/anaconda/envs/mlflow/lib/python3.6/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1552417178303
+status: 3
+tags: []
+user_id: luca

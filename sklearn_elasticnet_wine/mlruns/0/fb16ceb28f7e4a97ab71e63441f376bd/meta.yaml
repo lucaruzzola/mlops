@@ -1,0 +1,14 @@
+artifact_uri: /Users/luca/mlops/sklearn_elasticnet_wine/mlruns/0/fb16ceb28f7e4a97ab71e63441f376bd/artifacts
+end_time: 1552417583817
+entry_point_name: main
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: fb16ceb28f7e4a97ab71e63441f376bd
+source_name: file:///Users/luca/mlops#sklearn_elasticnet_wine
+source_type: 3
+source_version: ed52185427a3c9a52bbedef2c8cd84a288cf4311
+start_time: 1552417579539
+status: 3
+tags: []
+user_id: luca
