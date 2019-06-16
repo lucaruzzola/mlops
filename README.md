@@ -4,4 +4,4 @@
 ![MLworkflow](assets/ml_workflow.png)
 
 # Managing the complex ML lifecycle with
-![MLFLow](assets/MLFlow-logo-final-black-50.png)
+![MLFLow](assets/mlflow-logo.png)
